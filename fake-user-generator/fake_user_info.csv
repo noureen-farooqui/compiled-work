@@ -1,0 +1,101 @@
+,age-group,occupation,Company Name,city,zipcode,Education,Specialization,Job,Career Development,Personal Growth,Educational Content,Healthcare
+0,20-25,Data Analyst,Harris PLC,South Autumnborough,82734,Mtech,Mathematics,0,1,1,1,0
+1,35-40,Software Engineer,Wheeler-Deleon,New Logan,22768,BTech,Computer Science,0,0,0,0,1
+2,35-40,Architect,Jones Ltd,Sandramouth,49391,BArch,architecture,1,1,0,0,1
+3,35-40,Teacher,"Pace, Garrison and Li",Danielberg,12099,B. ED,literature,0,1,1,1,0
+4,20-25,Quality Assurance Analyst,Martinez LLC,Port Robertobury,47140,MS,IT,0,0,1,0,1
+5,35-40,Student,Watkins university,North Jessica,43059,BE,mechanical engineering,1,1,1,1,1
+6,40-45,Entrepreneur,"Rubio, Rice and Harrington",Justinport,95938,Diploma,business administration,0,0,1,1,0
+7,25-30,Nurse,Nelson LLC,Karenburgh,40716,BSN,healthcare,1,1,0,1,0
+8,35-40,Research Assistant,Ramirez PLC,East Paultown,89299,MS,Biology,0,0,1,0,1
+9,20-25,Entrepreneur,Smith-Love,Port Sharonburgh,67735,BBA,management,1,0,0,1,0
+10,25-30,Research Assistant,"Gonzales, Thompson and Gibson",Gregburgh,35283,Mtech,electrical engineering,0,0,0,1,0
+11,40-45,Nurse,Wilson Group,Martinezport,63587,BSN,healthcare,0,0,1,1,1
+12,20-25,Psychologist,Smith-Mahoney,Greentown,80700,BA,psychology,0,0,0,1,0
+13,40-45,Data Analyst,Clayton LLC,Crawfordtown,91796,BTech,mechanical engineering,0,1,1,1,0
+14,35-40,Journalist,Williams-Mack,Cookeberg,80050,BJMC,mass communication,1,1,1,1,0
+15,40-45,Entrepreneur,Smith PLC,Masontown,53923,MBA,management,0,0,1,1,0
+16,40-45,Student,Wilson-Clark university,South Tammyshire,26495,BBA,marketing,0,1,0,0,1
+17,30-35,Social Worker,"Ramirez, Ibarra and Carr",South Rachel,19774,BA,economics,1,0,1,0,1
+18,35-40,Financial Analyst,"Banks, Ford and Barber",Espinozamouth,92073,BA,economics,1,0,0,0,1
+19,35-40,Product Manager,Cole Inc,North Damonburgh,72058,BTech,Computer Science,0,0,0,1,1
+20,30-35,Social Worker,"Bennett, Patel and Nguyen",West Steventown,89760,Diploma,philosophy,0,1,0,0,1
+21,25-30,IT manager,"Martin, Crawford and Little",Camachoburgh,73181,MS,Computer Science,0,0,1,1,1
+22,20-25,Doctor,Kemp PLC,Leestad,70920,MD,Cardiology,1,1,0,0,0
+23,30-35,Software Engineer,Dean Group,Joelborough,70045,Mtech,Computer Science,1,1,0,0,0
+24,20-25,Journalist,Jordan-Chang,West Julieville,39722,Diploma,political science,0,1,0,1,1
+25,25-30,Marketing Manager,Barron LLC,Lake Crystal,19664,BBA,marketing,1,0,0,0,0
+26,35-40,Consultant,"Graves, Hardy and Sutton",Alexandermouth,92181,MBA,business administration,0,0,1,0,0
+27,30-35,Nurse,Daniel-Werner,Port Marilynland,35695,Diploma,healthcare,1,0,0,0,0
+28,35-40,Software Engineer,Hill-Ashley college,Johntown,7845,BTech,Chemical engineering,0,1,0,0,1
+29,35-40,Data Analyst,"Parsons, Fritz and Wilson",North Timothyburgh,60079,BTech,civil engineering,1,0,0,1,0
+30,35-40,Marketing Manager,"Kelly, Cervantes and Santos",North Curtishaven,82190,BBA,business administration,0,0,1,0,1
+31,40-45,Quality Assurance Analyst,Mcdonald Inc,South George,57100,MS,Mathematics,1,1,0,0,0
+32,30-35,Doctor,Dunn Group,Kelliburgh,67586,MD,pediatrics,0,1,1,1,0
+33,20-25,Quality Assurance Analyst,White-Hamilton,Lopeztown,81759,Mtech,Computer Science,0,0,0,0,0
+34,20-25,Software Engineer,Reese-Davis,Heatherchester,60624,BE,IT,1,1,1,0,0
+35,40-45,Research Assistant,Smalt university,New Nicoleville,11909,PhD,electrical engineering,1,0,1,0,1
+36,25-30,Software Engineer,"Porter, Myers and Walker",Jasonfort,77774,BTech,Computer Science,0,0,1,0,0
+37,30-35,Entrepreneur,Young Group,Kristinborough,86604,BTech,mechanical engineering,0,1,1,1,1
+38,25-30,Financial Analyst,Gaines and Sons,North Robertfort,28009,MS,Mathematics,1,1,0,1,0
+39,35-40,Student,King-Williams college,New Jose,84414,BA,History,0,0,1,0,0
+40,40-45,Journalist,Anthony-Ware,South Adam,47561,BA,political science,1,0,0,0,1
+41,20-25,Architect,"Mercer, Webb and Nichols",Port Larry,58302,BArch,architecture,1,0,0,0,1
+42,30-35,Financial Analyst,"Chapman, Garcia and Washington",Leeport,21863,BTech,mechanical engineering,0,0,1,1,0
+43,40-45,Social Worker,"Liu, Stewart and Anderson",North Joshuaville,17254,BBA,business administration,0,1,0,1,1
+44,30-35,Marketing Manager,Baker-Cole,North Corey,24166,MBA,marketing,1,0,1,0,0
+45,30-35,Lawyer,"Gonzalez, Davis and Harper",Port Sarah,9958,JD,law,1,0,0,0,0
+46,25-30,Teacher,Small Ltd,North Kayla,42350,MA,History,0,0,0,0,1
+47,25-30,Student,Kelt university,Millershire,29753,MS,Chemistry,0,0,0,0,0
+48,25-30,Data Analyst,"Wilson, Brennan and Perez",Alanberg,7014,BTech,electrical engineering,1,1,1,0,1
+49,20-25,Journalist,Bartlett-Holmes,Joshuahaven,54417,Diploma,mass communication,0,1,0,1,1
+50,30-35,Architect,"Shea, Byrd and King",Kiaraside,55895,BArch,architecture,1,1,1,1,1
+51,30-35,IT manager,Martinez-Garcia,South Catherine,48105,Mtech,Computer Science,1,1,0,0,1
+52,20-25,Consultant,Chavez Group,South Cynthia,56711,BTech,Chemical engineering,1,1,0,0,0
+53,40-45,Software Engineer,"Stone, Jenkins and Pearson",Frankstad,24698,BTech,electrical engineering,1,1,1,0,1
+54,40-45,Architect,"Vaughn, Burton and Sanchez",West Leehaven,89456,BArch,architecture,0,1,0,0,0
+55,25-30,Nurse,Brennan-Lewis,East Alec,17458,BSN,healthcare,0,0,1,1,1
+56,20-25,Teacher,Rush PLC,West Sarahfurt,34203,BA,geography,0,1,0,1,1
+57,30-35,Financial Analyst,Odonnell Group,Shepardmouth,72479,BBA,economics,0,0,1,1,1
+58,25-30,Teacher,"Gould, Cochran and Berg",Bellville,85271,B. ED,literature,1,0,1,1,0
+59,35-40,Marketing Manager,Hamilton-Medina,Lake Julian,42790,BBA,marketing,1,1,0,1,0
+60,30-35,Student,Taylor lincoln college,Port Danielfort,9132,Diploma,sociology,1,1,0,0,1
+61,25-30,IT manager,"Zimmerman, Gonzalez and Williams",Danielborough,33385,Mtech,IT,0,0,1,1,1
+62,25-30,IT manager,"Logan, Wood and Jackson",South Nicholasland,81279,BE,Computer Science,1,0,0,1,1
+63,30-35,Consultant,Smith-Graves,New Jamesville,90540,MBA,management,1,1,0,1,1
+64,25-30,Psychologist,Grant LLC,Stevensshire,27152,BA,psychology,1,1,1,1,1
+65,20-25,Software Engineer,"Ellis, Barrera and Campbell",Kristinashire,81924,BTech,Computer Science,0,1,0,0,0
+66,35-40,Financial Analyst,Hall Ltd,Karenshire,43549,BBA,business administration,0,0,0,1,1
+67,25-30,Student,Arellano university,Mcclureview,8369,MA,literature,1,0,0,1,1
+68,35-40,Software Engineer,"Hernandez, Cook and Wright",West Maria,14098,Diploma,Computer Science,0,1,1,1,0
+69,35-40,Architect,"Calhoun, Ramirez and Snyder",Masonmouth,81364,BArch,architecture,1,1,1,1,0
+70,40-45,Graphic Designer,Sherman-Brown,North Shelleyberg,46240,BTech,engineering design,0,0,0,1,1
+71,40-45,Consultant,Jones-Yates,Markland,22691,MBA,business administration,1,0,0,1,0
+72,25-30,Software Engineer,Frazier-Lopez,Amymouth,95363,Diploma,Computer Science,0,1,0,1,0
+73,20-25,Architect,"Gonzalez, Harrison and Sheppard",West Alison,15481,BArch,architecture,0,0,0,0,0
+74,30-35,Nurse,Hart-King,East Saraborough,14106,BSN,healthcare,0,1,1,1,1
+75,25-30,Consultant,Martinez Group,East Loriburgh,26247,BTech,electrical engineering,0,1,1,0,0
+76,30-35,Social Worker,Norris Group,North Jennifer,802,Diploma,sociology,1,1,1,1,0
+77,25-30,Nurse,Copeland-Schneider,Lake Mariabury,52866,BSN,healthcare,0,0,0,0,1
+78,25-30,Doctor,Fox Ltd,Harmonburgh,66080,MD,surgery,0,1,1,0,1
+79,20-25,Software Engineer,Page PLC,New Tony,46464,Mtech,Computer Science,0,0,1,1,0
+80,35-40,Psychologist,Robbins PLC,Andersonshire,51614,MA,psychology,1,1,1,1,0
+81,40-45,IT manager,"Baird, Watts and Mckinney",Port Stephaniechester,69970,BE,IT,1,1,0,0,1
+82,30-35,Research Assistant,Guzman college of arts,East Catherinehaven,64914,MA,anthropology,0,1,0,1,0
+83,40-45,Marketing Manager,Mullins-Peterson,Hannaview,71352,BBA,marketing,1,1,0,1,0
+84,35-40,Psychologist,"Roberts, Powell and Hansen",Fischerchester,37446,Diploma,psychology,0,1,0,0,1
+85,30-35,Data Analyst,Green LLC,Lake Coreyfurt,59473,MS,data science,1,0,1,0,0
+86,25-30,Financial Analyst,"Kim, Johnson and Daniel",Maryhaven,59563,MA,economics,0,0,0,0,0
+87,40-45,Marketing Manager,Alexander LLC,Ramirezfurt,47305,MBA,marketing,1,0,0,0,1
+88,20-25,Consultant,Green Ltd,South Josephborough,70613,MBA,business administration,0,1,0,0,0
+89,25-30,Teacher,"White, Smith and Henderson",Bradleyfurt,47141,MA,literature,0,1,1,0,0
+90,40-45,IT manager,Boyd Group,Bishopborough,60316,Diploma,IT,0,0,1,1,0
+91,30-35,Data Analyst,"Rodriguez, Roberts and Foster",New Derekbury,48558,BTech,Chemical engineering,0,1,0,0,0
+92,20-25,Data Analyst,Castro Ltd,Brianberg,99276,BTech,Computer Science,0,1,0,1,1
+93,30-35,Journalist,"Walker, Colon and Phillips",Lake Laura,50243,BJMC,mass communication,1,0,1,0,0
+94,40-45,IT manager,"Peterson, Carson and Franklin",Mitchellville,14452,BTech,Computer Science,0,1,0,0,0
+95,40-45,Research Assistant,Wong lab,Lindsayton,29407,PhD,microbiology,0,1,1,0,0
+96,25-30,Graphic Designer,Moore-Clark,Oconnorberg,57992,BTech,engineering design,1,1,1,0,1
+97,40-45,Nurse,Campbell-Smith,Elliottbury,80969,BSN,healthcare,0,1,0,0,0
+98,25-30,Graphic Designer,"Mitchell, Price and Hudson",North Garybury,36414,Diploma,ui/ux designer,1,0,0,1,1
+99,40-45,Consultant,Hale-Adams,East Adamshire,43221,MBA,management,1,1,0,1,0
