@@ -1,10 +1,10 @@
 # compiled-work
 
-article recommender dataset has item info (labeled into 5 categories one os the item dataset is one hot encoded). we have the user info which I generated through the Faker library. and lastly, there is LinkedIn data which has many posts by different users, it has many features.
+--> article recommender dataset has item info (labeled into 5 categories one os the item dataset is one hot encoded). we have the user info which I generated through the Faker library. and lastly, there is LinkedIn data which has many posts by different users, it has many features.
 
-fake user generator has a code block that generates fake users 
+--> fake user generator has a code block that generates fake users 
 
-internship recommender dataset has internship and job information found on multiple websites like Internshala, naukri.com, lets intern etc
+--> internship recommender dataset has internship and job information found on multiple websites like Internshala, naukri.com, lets intern etc
 
 --> News article retriever has two retrievers built using NewsAPI and GnewsAPI. NewsAPI gives better results.
 
